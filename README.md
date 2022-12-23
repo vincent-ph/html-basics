@@ -1,2 +1,2 @@
 # HTML-basics
-Les basics de HTML
+Les bases de HTML
